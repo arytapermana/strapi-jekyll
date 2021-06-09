@@ -36,7 +36,7 @@ plugins:
   - jekyll-strapi
 
 strapi:
-  endpoint: https://60b26c6a9a41.ap.ngrok.io/
+  endpoint: https://60b26c6a9a41.ap.ngrok.io
   collections:
     posts:
       type: posts
